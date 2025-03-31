@@ -1,0 +1,31 @@
+.App {
+    height: auto;
+    width: 1260px; 
+    overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Correct box-sizing value */
+}
+
+body {
+    background-color: #000;
+    display: flex;
+    padding: 37px 20px 20px 40px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+.Catogry {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

@@ -1,0 +1,38 @@
+.hello{
+display: flex;
+align-items: flex-start;
+gap: 15px;
+align-self: stretch;
+display: flex;
+}
+
+
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    color:#FFF;
+    width: 124px;
+    height: 34px;
+    align-self: stretch;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.image{
+    border-radius:5px ;
+    width:124px ;
+    height: 222px;
+   
+}
+
+.Catogry{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-bottom: 15px;
+}
